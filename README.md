@@ -8,6 +8,7 @@ This project performs security analysis of encryption in Simplified-DES using a 
 　①1 to 4 bits and 5 to 8 bits from the left end
 　②1,3,5,7 bits and 2,4,6,8 bits from the left end
 　③1,2,5,6 bits and 3,4,7,8 bits from the left end
+ 
 ・Measure MAE, RMSE, and Partial Dependence from the feature values ​​and objective variable values, and compare the respective patterns.
 
 # Requirements
