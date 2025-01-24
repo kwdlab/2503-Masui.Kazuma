@@ -1,5 +1,5 @@
 # Overview
-卒業研究で作成したプログラムの概要を1～3行で書く。
+This project performs security analysis of encryption in Simplified-DES using a white box model, Generalized Additive Model (GAM).This program performs specific analysis by measuring Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Partial Dependence.
 
 # Description
 卒業研究で作成したプログラムの詳細を書く。
