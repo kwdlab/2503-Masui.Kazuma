@@ -2,7 +2,8 @@
 This project performs security analysis of encryption in Simplified-DES using a white box model, Generalized Additive Model (GAM).This program performs specific analysis by measuring Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Partial Dependence.
 
 # Description
-・This program divides plaintext (8 bits) and S-DES encrypted text (8 bits) into 4 bits each, and uses them as features in GAM. Also, set the key to the target variable./n
+・This program divides plaintext (8 bits) and S-DES encrypted text (8 bits) into 4 bits each, and uses them as features in GAM. Also, set the key to the target variable.
+
 ・Three division methods are set for feature values ​​to compare differences.
 　①1 to 4 bits and 5 to 8 bits from the left end
 　②1,3,5,7 bits and 2,4,6,8 bits from the left end
