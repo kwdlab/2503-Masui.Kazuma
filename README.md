@@ -12,17 +12,17 @@ This project performs security analysis of encryption in Simplified-DES using a 
 ・Measure MAE, RMSE, and Partial Dependence from the feature values ​​and objective variable values, and compare the respective patterns.
 
 # Requirements
-使用したソフトウェア名称、ソフトウェアバージョン等のプログラムの動作環境を書く。
 Python version 3.7.17
 
 # Install/Usage
-プログラムのインストール法や使い方を書く。
+git clone https://github.com/kwdlab-MASUI-Kazuma/2503-Masui.Kazuma.git
 
 # Author
-自分の名前を書く。
+Kazuma Masui
 
 # References
-プログラム作成に参考にした書籍、論文を書く。
+Thampi, A.; 松田晃一(訳). 解釈可能なAI 機械学習モデルの解釈手法を実践的に理解する
+GitHub MalihaRaida/simplified-Des
 
 # License
-掲載しているプログラムのライセンスを書く。
+MIT
