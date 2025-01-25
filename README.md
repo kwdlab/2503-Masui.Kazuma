@@ -13,6 +13,7 @@ This project performs security analysis of encryption in Simplified-DES using a 
 
 # Requirements
 使用したソフトウェア名称、ソフトウェアバージョン等のプログラムの動作環境を書く。
+Python version 3.7.17
 
 # Install/Usage
 プログラムのインストール法や使い方を書く。
