@@ -22,6 +22,7 @@ Kazuma Masui
 
 # References
 Thampi, A.; 松田晃一(訳). 解釈可能なAI 機械学習モデルの解釈手法を実践的に理解する
+
 GitHub MalihaRaida/simplified-Des
 
 # License
