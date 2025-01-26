@@ -21,7 +21,7 @@ git clone https://github.com/kwdlab-MASUI-Kazuma/2503-Masui.Kazuma.git
 Kazuma Masui
 
 # References
-Thampi, A.; 松田晃一(訳). 解釈可能なAI 機械学習モデルの解釈手法を実践的に理解する
+Python
 
 GitHub MalihaRaida/simplified-Des
 
